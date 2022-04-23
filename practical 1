@@ -1,0 +1,9 @@
+#include<iostream.h>
+
+/*run this program using the console pauseror add you own getch,system("pause") or input loop */
+
+int main()
+{
+  std::<<"hello world";
+  return 0;
+}  
